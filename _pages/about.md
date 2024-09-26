@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Hamza's coding playground"
+title: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-# About me
 
 I’m a coder who’s obsessed with all things tech, video-making, and staying healthy.
 
