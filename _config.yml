@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Hamza's site"
+title: "Portfolio"
 title_separator: "-"
 name: &name "Hamza Magomadow"
 description: &description "personal description"
